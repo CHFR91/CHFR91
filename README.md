@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHFR91
 - 👀 I’m interested in a job (as webmaster / developper web / project manager)
-- 🌱 I’m currently learning java and javascript (jquery, node, angular)
+- 🌱 I’m currently learning java and javascript (jquery, node)
 - 💞️ I’m looking to improve my knowledges
 - 📫 How to reach me: christophe.hede@gmail.com
 
